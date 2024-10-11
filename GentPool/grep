@@ -1,0 +1,29 @@
+ 1097  echo "OPENAI_API_KEY=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" >> .env
+ 1098  pip install -r requirements.txt
+ 1099  cd ..
+ 1100  pip install -r requirements.txt
+ 1101  clear
+ 1102  export PYTHONPATH="$PWD/Gentopia:$PYTHONPATH"
+ 1103  cd GentPool
+ 1104  python assemble.py
+ 1105  git commit 
+ 1106  git add .
+ 1107  git commit -a -m 'updated'
+ 1108  cler
+ 1109  clear
+ 1110  python assemble.py scrappy_the_cholo
+ 1111  python assemble.py scrappy_the_cholo
+ 1112  python assemble.py scrappy_the_cholo
+ 1113  clear
+ 1114  python assemble.py scrappy_the_cholo
+ 1115  python assemble.py scrappy_the_cholo
+ 1116  python assemble.py scrappy_the_cholo
+ 1117  python assemble.py scrappy_the_cholo
+ 1118  python assemble.py scrappy_the_cholo
+ 1119  python assemble.py scrappy_the_cholo
+ 1120  python assemble.py scrappy_the_cholo
+ 1121  python assemble.py scrappy_the_cholo
+ 1122  python assemble.py scrappy_the_cholo
+ 1123  history
+ 1124  history > grep API
+ 1125  history > grep echo
