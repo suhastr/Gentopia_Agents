@@ -1,0 +1,107 @@
+INFO:root:Creating Config from file: ./gentpool/pool/dummy3/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/dummy3/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/dummy3/agent.yaml
+INFO:root:--------------------
+INFO:root:\[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:dummy3 is thinking...
+INFO:root:Done
+INFO:root:[blue]dummy3: 
+INFO:root:{"name":"pdf_reader", "arguments":{"file_path":"https://writing.colostate.edu/guides/documents/resume/functionalsample.pdf"}}
+
+INFO:root:Calling function: pdf_reader ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:Functional Resume Sample 
+ 
+John W. Smith   
+2002 Front Range Way Fort Collins, CO 80525  
+jwsmith@colostate.edu  
+ 
+Career Summary 
+ 
+Four years experience in early childhood development with a di verse background in the care of 
+special needs children and adults.  
+  
+Adult Care Experience  
+ 
+• Determined work placement for 150 special needs adult clients.  
+• Maintained client databases and records.  
+• Coordinated client contact with local health care professionals on a monthly basis.     
+• Managed 25 volunteer workers.     
+ 
+Childcare Experience  
+ 
+• Coordinated service assignments for 20 part -time counselors and 100 client families. 
+• Oversaw daily activity and outing planning for 100 clients.  
+• Assisted families of special needs clients with researching financial assistance and 
+healthcare. 
+• Assisted teachers with managing daily classroom activities.    
+• Oversaw daily and special st udent activities.     
+ 
+Employment History  
+ 1999-2002  Counseling Supervisor, The Wesley Ce nter, Little Rock, Arkansas.    
+1997-1999  Client Specialist, Rainbow Special Ca re Center, Little Rock, Arkansas  
+1996-1997 Teacher’s Assistant, Cowell Elem entary, Conway, Arkansas     
+ 
+Education 
+ 
+University of Arkansas at Little Rock, Little Rock, AR  
+ 
+• BS in Early Childhood Development (1999) 
+• BA in Elementary Education (1998) 
+• GPA (4.0 Scale):  Early Childhood Developm ent – 3.8, Elementary Education – 3.5, 
+Overall 3.4.  
+• Dean’s List, Chancellor’s List 
+ 
+INFO:root:--------------------
+INFO:root:dummy3 is thinking...
+INFO:root:Done
+INFO:root:[blue]dummy3: 
+INFO:root:Here is the content from the functional resume sample:
+
+---
+
+**Functional Resume Sample**
+
+**John W. Smith**  
+2002 Front Range Way  
+Fort Collins, CO 80525  
+jwsmith@colostate.edu  
+
+**Career Summary**  
+Four years experience in early childhood development with a diverse background in the care of special needs children and adults.  
+
+**Adult Care Experience**  
+- Determined work placement for 150 special needs adult clients.  
+- Maintained client databases and records.  
+- Coordinated client contact with local health care professionals on a monthly basis.  
+- Managed 25 volunteer workers.  
+
+**Childcare Experience**  
+- Coordinated service assignments for 20 part-time counselors and 100 client families.  
+- Oversaw daily activity and outing planning for 100 clients.  
+- Assisted families of special needs clients with researching financial assistance and healthcare.  
+- Assisted teachers with managing daily classroom activities.  
+- Oversaw daily and special student activities.  
+
+**Employment History**  
+- 1999-2002: Counseling Supervisor, The Wesley Center, Little Rock, Arkansas.  
+- 1997-1999: Client Specialist, Rainbow Special Care Center, Little Rock, Arkansas.  
+- 1996-1997: Teacher’s Assistant, Cowell Elementary, Conway, Arkansas.  
+
+**Education**  
+University of Arkansas at Little Rock, Little Rock, AR  
+- BS in Early Childhood Development (1999)  
+- BA in Elementary Education (1998)  
+- GPA (4.0 Scale): Early Childhood Development – 3.8, Elementary Education – 3.5, Overall 3.4.  
+- Dean’s List, Chancellor’s List  
+
+--- 
+
+This resume highlights the candidate's experience and education in early childhood development and special needs care.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:
+[red]Bye!

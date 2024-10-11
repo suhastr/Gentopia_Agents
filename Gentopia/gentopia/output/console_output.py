@@ -1,7 +1,7 @@
 import json
 from abc import ABC
 from typing import Union, Dict, Any, List, Optional
-
+from rich.markup import escape
 from rich.box import Box
 from rich.console import Console
 from pydantic import BaseModel
@@ -131,6 +131,8 @@ class ConsoleOutput(BaseOutput):
        :param stream: If True, prints the item as a stream. If False, prints the item as a panel. Defaults to False.
        :type stream: bool
        """
+        if isinstance(item, str):
+            item = escape(item)
         if not stream:
             super().panel_print(item, title, stream)
         if not stream:

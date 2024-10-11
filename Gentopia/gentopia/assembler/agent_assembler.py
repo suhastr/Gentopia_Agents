@@ -19,6 +19,7 @@ from gentopia.model.param_model import OpenAIParamModel, HuggingfaceParamModel
 from gentopia.tools import *
 from gentopia.tools import BaseTool
 from gentopia.tools.basetool import ToolMetaclass
+from gentopia.tools.pdf_reader import PDFReader
 
 
 class AgentAssembler:
