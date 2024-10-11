@@ -14,3 +14,6 @@ from .dummy1 import *
 from .dummy2 import *
 from .dummy3 import *
 from .scrappy_the_cholo import *
+from .mathgeni import *
+from .mathgeni1 import *
+from .mathgeni import *
