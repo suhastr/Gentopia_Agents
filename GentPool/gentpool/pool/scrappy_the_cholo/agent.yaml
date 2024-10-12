@@ -21,5 +21,5 @@ plugins:
   - name: cholo_understands
   - name: cholo_answers
     params:
-      api_key: "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"  # Add your OpenAI API key here
+      api_key: None  # Add your OpenAI API key here
     
