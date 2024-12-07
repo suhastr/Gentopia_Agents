@@ -115,7 +115,7 @@ sphinxcontrib-jquery==4.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.6
 sphinxcontrib-serializinghtml==1.1.9
-starlette==0.27.0
+starlette==0.40.0
 sympy==1.12
 tenacity==8.2.3
 tiktoken==0.5.1
