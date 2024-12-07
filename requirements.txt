@@ -82,7 +82,7 @@ protobuf==4.24.4
 psutil==5.9.5
 ptyprocess==0.7.0
 pulsar-client==3.3.0
-pyarrow==13.0.0
+pyarrow==14.0.1
 pydantic==1.9.0
 Pygments==2.16.1
 pyparsing==3.1.1
